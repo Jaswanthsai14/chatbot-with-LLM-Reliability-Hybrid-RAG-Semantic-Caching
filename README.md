@@ -659,9 +659,6 @@ Repeating the same or a sufficiently similar query may return a cached response 
 - Add deployment configuration and health checks.
 - Expand support for additional MCP tools.
 
-## License
-
-Specify the license used by your repository before publishing it for reuse.
 
 ## Author
 
