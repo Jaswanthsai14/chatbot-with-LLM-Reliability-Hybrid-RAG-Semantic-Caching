@@ -644,21 +644,6 @@ Repeating the same or a sufficiently similar query may return a cached response 
 - LangSmith tracing configuration.
 - Gradio chat interface.
 
-## Future Improvements
-
-- Add automated tests for routing, retrieval, guardrails, and MCP tools.
-- Evaluate cache precision and false-positive cache hits.
-- Collect a larger set of latency measurements.
-- Add cache hit-rate and cache-miss monitoring.
-- Expand the Indian history evaluation dataset.
-- Add explicit timeout and retry policies to web search and retrieval where appropriate.
-- Improve secret detection beyond specific private-key header patterns.
-- Add authentication and authorization for deployed services.
-- Add structured logging and application metrics.
-- Containerize the MCP server, Redis, worker, and application using Docker.
-- Add deployment configuration and health checks.
-- Expand support for additional MCP tools.
-
 
 ## Author
 
